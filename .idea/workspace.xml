@@ -1,0 +1,232 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="0408a758-9581-41e4-82ba-d2f76f73053f" name="Changes" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="spring-beans.schema" />
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="CurrentFile" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;customColor&quot;: &quot;&quot;,
+  &quot;associatedIndex&quot;: 1
+}</component>
+  <component name="ProjectId" id="2Sn1ej48yoneWeFPIxwilUmNlfw" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RequestMappingsPanelOrder0&quot;: &quot;0&quot;,
+    &quot;RequestMappingsPanelOrder1&quot;: &quot;1&quot;,
+    &quot;RequestMappingsPanelWidth0&quot;: &quot;75&quot;,
+    &quot;RequestMappingsPanelWidth1&quot;: &quot;75&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/Home/Downloads/hgw-bot-master&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Project&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;reference.settings.project.maven.repository.indices&quot;,
+    &quot;spring.configuration.checksum&quot;: &quot;47e8be03266b020dceb1eea1bc1faa2e&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  },
+  &quot;keyToStringList&quot;: {
+    &quot;DatabaseDriversLRU&quot;: [
+      &quot;mysql&quot;
+    ]
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\example\Java\TBot\src\main\resources" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Spring Boot.TBotApplication">
+    <configuration name="TBotApplicationTests" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="TBot" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.example.tbot.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.example.tbot" />
+      <option name="MAIN_CLASS_NAME" value="com.example.tbot.TBotApplicationTests" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TBotApplicationTests.saveEventsA" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="TBot" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.example.tbot.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.example.tbot" />
+      <option name="MAIN_CLASS_NAME" value="com.example.tbot.TBotApplicationTests" />
+      <option name="METHOD_NAME" value="saveEventsA" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TBotApplicationTests.saveEventsA2" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="TBot" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.example.tbot.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.example.tbot" />
+      <option name="MAIN_CLASS_NAME" value="com.example.tbot.TBotApplicationTests" />
+      <option name="METHOD_NAME" value="saveEventsA2" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TBotApplicationTests.saveEventsB" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="TBot" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.example.tbot.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.example.tbot" />
+      <option name="MAIN_CLASS_NAME" value="com.example.tbot.TBotApplicationTests" />
+      <option name="METHOD_NAME" value="saveEventsB" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TBotApplicationTests.test" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="TBot" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.example.tbot.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.example.tbot" />
+      <option name="MAIN_CLASS_NAME" value="com.example.tbot.TBotApplicationTests" />
+      <option name="METHOD_NAME" value="test" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TBotApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
+      <module name="TBot" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.example.tbot.TBotApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.TBotApplicationTests.saveEventsB" />
+        <item itemvalue="JUnit.TBotApplicationTests.saveEventsA" />
+        <item itemvalue="JUnit.TBotApplicationTests.test" />
+        <item itemvalue="JUnit.TBotApplicationTests.saveEventsA2" />
+        <item itemvalue="JUnit.TBotApplicationTests" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="0408a758-9581-41e4-82ba-d2f76f73053f" name="Changes" comment="" />
+      <created>1689767629709</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1689767629709</updated>
+      <workItem from="1689767631040" duration="7442000" />
+      <workItem from="1689858360487" duration="2501000" />
+      <workItem from="1689969316218" duration="702000" />
+      <workItem from="1690022053414" duration="3707000" />
+      <workItem from="1690026485216" duration="6791000" />
+      <workItem from="1690112959574" duration="6883000" />
+      <workItem from="1690187648489" duration="5133000" />
+      <workItem from="1691006112405" duration="49000" />
+      <workItem from="1691006887032" duration="43000" />
+      <workItem from="1691953775548" duration="65000" />
+      <workItem from="1694027758535" duration="1175000" />
+      <workItem from="1694092581851" duration="7326000" />
+      <workItem from="1694198349706" duration="85000" />
+      <workItem from="1694200354465" duration="362000" />
+      <workItem from="1694890369115" duration="6116000" />
+      <workItem from="1694945081661" duration="17768000" />
+      <workItem from="1695028587300" duration="3365000" />
+      <workItem from="1695037868008" duration="16000" />
+      <workItem from="1695061520143" duration="5000" />
+      <workItem from="1695478498934" duration="5832000" />
+      <workItem from="1695565201084" duration="4045000" />
+      <workItem from="1702642662869" duration="23276000" />
+      <workItem from="1702723547947" duration="20160000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/test/java/com/example/tbot/TBotApplicationTests.java</url>
+          <line>55</line>
+          <properties class="com.example.tbot.TBotApplicationTests" method="saveEventsB">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/test/java/com/example/tbot/TBotApplicationTests.java</url>
+          <line>31</line>
+          <properties class="com.example.tbot.TBotApplicationTests" method="test">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
+  </component>
+</project>
